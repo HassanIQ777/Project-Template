@@ -3,6 +3,7 @@
 # WARNING:
 # This hard resets any project in which you run this
 # Use this to update any program and its submodules to their latest versions
+# (this is NOT the same as submodules' own latest. bump pins separately when needed)
 
 echo " ----- Started Updater ----- "
 echo "Updating the program..."
